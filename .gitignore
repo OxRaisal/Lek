@@ -1,0 +1,176 @@
+.appxbundle
+*.appxupload
+
+# Файлы кэша Visual Studio
+# файлы, заканчивающиеся на .cache, могут быть проигнорированы
+.*[Cc] боль
+# но следите за каталогами, заканчивающимися на .cache
+.?*![Cc]боль/
+
+# Другие
+Клиентская база/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Включение файлов со строгими именами может представлять угрозу безопасности
+# (https://github.com/github/gitignore/pull/2483#issue-259490424 )
+#*.snk
+
+# Поскольку существует несколько рабочих процессов, раскомментируйте следующую строку, чтобы игнорировать bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622 )
+#bower_компоненты/
+
+# RIA/Проекты Silverlight
+Сгенерированный код/
+
+# Резервное копирование и создание отчетов о файлах в результате преобразования старого файла проекта
+# к более новой версии Visual Studio. Файлы резервных копий не нужны,
+# потому что у нас есть git ;-)
+_ улучшение_порт_файлов/
+* Резервное копирование/
+Список обновлений *.XML
+Список обновлений *.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# Файлы SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Проекты бизнес-аналитики
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+-* [Bb]ackup.rdl
+-* [Bb] ackup ([0-9]).rdl
+-* [Bb] ackup ([0-9][0-9]).rdl
+
+# Подделки Microsoft
+Поддельные сборки/
+
+# Файл настроек плагина GhostDoc
+*.GhostDoc.xml
+
+# Node.js Инструменты для Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Журнал сборки Visual Studio 6
+*.plg
+
+# Файл параметров рабочей области Visual Studio 6
+*.opt
+
+# Автоматически сгенерированный файл рабочей области Visual Studio 6 (содержит, какие файлы были открыты и т.д.)
+*.vbw
+
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+# Рабочая область Visual Studio 6 и файл проекта (рабочие файлы проекта, содержащие файлы для включения в проект)
+*.dsw
+*.dsp
+
+# Технические файлы Visual Studio 6
+*.ncb
+*.точки доступа
+
+# Visual Studio LightSwitch вывод сборки
+**/*.HTMLClient/Созданные статьи
+**/*.DesktopClient/Созданные статьи
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/Созданные статьи
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Пакетный менеджер зависимостей
+.paket/paket.exe
+пакет-файлы/
+
+# ПОДДЕЛЬНЫЙ - F# Сделать
+.подделка/
+
+# Личные настройки CodeRush
+.cr/личный
+
+# Инструменты Python для Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - раскомментируйте, если вы его используете
+# инструменты/**
+# !инструменты / пакеты.config
+
+# Студия вкладок
+*.tss
+
+# Конфигурационный файл JustMock от Telerik
+*.jmconfig
+
+# Вывод сборки BizTalk
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# Результаты анализа пользовательского интерфейса OpenCover
+Открыть обложку/
+
+# Вывод локального запуска Azure Stream Analytics
+ASALocalRun/
+
+# Двоичный и структурированный журнал MSBuild
+*.binlog
+
+# Файл конфигурации отладчика графического процессора NVidia Nsight
+*.nvuser
+
+# Рабочая папка MFractors (инструмент повышения производительности Xamarin)
+.mfractor/
+
+# Локальная история для Visual Studio
+.локальная история/
+
+# История файлов Visual Studio (VSHistory)
+.история/
+
+# Проверка работоспособности временной базы данных BeatPulse
+healthchecksdb
+
+# Папка резервного копирования для инструмента преобразования ссылок на пакеты в Visual Studio 2017
+Резервное копирование миграции/
+
+# Рабочая папка Ionide (кроссплатформенный F # VS Code tools)
+.ионид/
+
+# Fody - автоматически сгенерированная XML-схема
+FodyWeavers.xsd
+
+# Файлы VS Code для тех, кто работает с несколькими инструментами
+.vscode/*
+.vscode!/settings.json
+.vscode!/tasks.json
+.vscode!/launch.json
+.vscode!/extensions.json
+*.code-рабочее пространство
+
+# Локальная история для кода Visual Studio
+.история/
+
+# Файлы установщика Windows из выходных данных сборки
+*.cab
+*.msi
+*.msix
+* .msm
+* .msp
+
+# Гонщик JetBrains
+*.sln.iml
